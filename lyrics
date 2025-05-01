@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta property="og:title" content="Duet Lyrics - By You">
+  <meta property="og:description" content="A sweet duet with male and female verses.">
+  <title>Duet Lyrics</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 2rem;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    .verse {
+      margin-bottom: 1.5rem;
+      padding: 1rem;
+      border-radius: 12px;
+    }
+    .male {
+      background-color: #e0f0ff;
+      border-left: 6px solid #2196f3;
+    }
+    .female {
+      background-color: #ffe0f0;
+      border-left: 6px solid #e91e63;
+    }
+    .chorus {
+      background-color: #f0f0f0;
+      font-style: italic;
+      text-align: center;
+      padding: 1rem;
+      border-radius: 12px;
+    }
+    @media screen and (max-width: 600px) {
+      body {
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>🎵 Duet Song Title</h1>
+
+  <div class="verse male">
+    <strong>Male:</strong>  
+    <p>I saw you standing by the light,<br>
+    The world just faded out of sight.</p>
+  </div>
+
+  <div class="verse female">
+    <strong>Female:</strong>
+    <p>I felt your gaze across the air,<br>
+    A silent whisper said you care.</p>
+  </div>
+
+  <div class="chorus">
+    <p>Together we dance in the rhythm of stars,<br>
+    Hearts aligned, no matter how far.</p>
+  </div>
+
+  <div class="verse male">
+    <strong>Male:</strong>
+    <p>I tried to speak but words would stray,<br>
+    Your smile just took my breath away.</p>
+  </div>
+
+  <div class="verse female">
+    <strong>Female:</strong>
+    <p>I waited long for you to see,<br>
+    That you and I were meant to be.</p>
+  </div>
+
+  <div class="chorus">
+    <p>Together we sing, one voice, one song,<br>
+    In this melody, we both belong.</p>
+  </div>
+</body>
+</html>
